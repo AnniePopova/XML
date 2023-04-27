@@ -1,0 +1,10 @@
+<preferences>
+        <title>Preferences</title>
+        <body>
+                <movie>Gone_with_the_wind</movie>
+                <series>La_casa_de_papel</series>
+                <meal>borsch</meal>
+                <season>summer<season>
+		   <country>Spain</country>
+        </body>
+</preferences>
